@@ -13,7 +13,7 @@
     }
 </style>
 <body>
-<a href="/hello-servlet">chao huong</a>
+<a href="/chao">chao huong</a>
 <form method="post" action="/chao">
     <div class="login">
         <h2>Login</h2>
